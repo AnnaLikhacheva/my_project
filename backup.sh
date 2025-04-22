@@ -1,3 +1,4 @@
+# Script for backing up files
 #!/bin/bash
 echo "Backup Python files..."
 mkdir -p backup
